@@ -1,0 +1,151 @@
+product_id,product_name,category,supplier_id,cost_price
+1,Product_OFF_0,Toys,28,113.16
+2,Product_SPO_1,Books,43,166.06
+3,Product_SPO_2,Books,47,128.13
+4,Product_FOO_3,Toys,26,157.96
+5,Product_BOO_4,Books,25,121.72
+6,Product_BOO_5,Beauty,29,85.76
+7,Product_AUT_6,Automotive,19,191.8
+8,Product_TOY_7,Electronics,33,110.52
+9,Product_BOO_8,Books,36,122.99
+10,Product_CLO_9,Books,14,48.0
+11,Product_TOY_10,Clothing,14,127.0
+12,Product_CLO_11,Toys,35,116.46
+13,Product_SPO_12,Home & Garden,30,41.04
+14,Product_TOY_13,Food & Beverage,28,16.62
+15,Product_BOO_14,Sports,17,122.85
+16,Product_HOM_15,Books,3,153.92
+17,Product_FOO_16,Sports,16,107.06
+18,Product_CLO_17,Beauty,46,49.22
+19,Product_TOY_18,Home & Garden,30,134.97
+20,Product_BOO_19,Food & Beverage,29,20.62
+21,Product_TOY_20,Toys,45,91.16
+22,Product_BOO_21,Electronics,15,36.86
+23,Product_BOO_22,Food & Beverage,46,40.97
+24,Product_BOO_23,Food & Beverage,25,44.45
+25,Product_AUT_24,Electronics,38,80.41
+26,Product_FOO_25,Automotive,42,14.97
+27,Product_HOM_26,None,47,82.57
+28,Product_HOM_27,Clothing,38,104.78
+29,Product_TOY_28,Sports,23,99.24
+30,Product_TOY_29,Books,25,79.64
+31,Product_BOO_30,Food & Beverage,42,168.63
+32,Product_AUT_31,Beauty,7,33.34
+33,Product_BOO_32,Electronics,22,103.61
+34,Product_AUT_33,Sports,17,17.1
+35,Product_BOO_34,Home & Garden,18,18.88
+36,Product_CLO_35,Electronics,49,116.9
+37,Product_CLO_36,Home & Garden,41,115.37
+38,Product_SPO_37,Toys,10,176.22
+39,Product_BOO_38,Food & Beverage,10,113.79
+40,Product_FOO_39,Beauty,7,192.16
+41,Product_SPO_40,Books,48,14.5
+42,Product_TOY_41,Home & Garden,38,24.11
+43,Product_OFF_42,Sports,27,13.59
+44,Product_BOO_43,Automotive,33,41.13
+45,Product_CLO_44,Toys,1,110.55
+46,Product_OFF_45,Automotive,44,130.89
+47,Product_AUT_46,Toys,34,13.89
+48,Product_OFF_47,Clothing,4,189.46
+49,Product_FOO_48,Sports,17,169.22
+50,Product_BOO_49,Automotive,4,62.84
+51,Product_HOM_50,Beauty,43,20.05
+52,Product_OFF_51,Food & Beverage,26,38.13
+53,Product_HOM_52,Electronics,4,29.75
+54,Product_AUT_53,Books,1,29.04
+55,Product_SPO_54,Food & Beverage,7,106.12
+56,Product_HOM_55,Food & Beverage,30,52.94
+57,Product_SPO_56,Toys,9,74.84
+58,Product_CLO_57,Beauty,35,197.95
+59,Product_BOO_58,Toys,8,138.44
+60,Product_OFF_59,Office,24,190.05
+61,Product_CLO_60,Home & Garden,19,32.8
+62,Product_CLO_61,Books,36,79.52
+63,Product_BEA_62,Home & Garden,43,113.17
+64,Product_ELE_63,Electronics,27,19.97
+65,Product_FOO_64,Office,32,5.82
+66,Product_SPO_65,Sports,14,135.73
+67,Product_BEA_66,Electronics,18,130.15
+68,Product_ELE_67,Electronics,28,85.1
+69,Product_FOO_68,Clothing,29,100.48
+70,Product_SPO_69,Books,16,86.01
+71,Product_BOO_70,Toys,35,9.68
+72,Product_FOO_71,Beauty,47,70.4
+73,Product_OFF_72,Home & Garden,31,39.53
+74,Product_CLO_73,Electronics,4,24.19
+75,Product_ELE_74,Home & Garden,37,191.56
+76,Product_ELE_75,None,17,121.88
+77,Product_ELE_76,Sports,39,147.09
+78,Product_SPO_77,Books,48,66.5
+79,Product_OFF_78,Books,46,81.66
+80,Product_FOO_79,Automotive,26,51.2
+81,Product_CLO_80,Food & Beverage,48,23.91
+82,Product_OFF_81,Books,39,39.91
+83,Product_BEA_82,Home & Garden,41,160.52
+84,Product_BOO_83,Toys,4,137.12
+85,Product_HOM_84,Home & Garden,30,111.65
+86,Product_OFF_85,Toys,30,97.64
+87,Product_BEA_86,Automotive,22,184.87
+88,Product_CLO_87,Toys,11,19.18
+89,Product_HOM_88,Books,2,59.72
+90,Product_HOM_89,Sports,44,73.24
+91,Product_OFF_90,Toys,12,157.57
+92,Product_ELE_91,Home & Garden,30,198.54
+93,Product_TOY_92,Beauty,36,51.93
+94,Product_CLO_93,Books,18,175.49
+95,Product_ELE_94,Beauty,26,166.97
+96,Product_CLO_95,None,7,48.81
+97,Product_TOY_96,Office,1,82.87
+98,Product_BOO_97,Home & Garden,26,84.89
+99,Product_TOY_98,Office,23,195.75
+100,Product_AUT_99,Food & Beverage,26,40.27
+101,Product_OFF_100,Automotive,45,160.84
+102,Product_OFF_101,Books,6,70.17
+103,Product_BEA_102,Beauty,6,147.52
+104,Product_ELE_103,Home & Garden,44,86.9
+105,Product_BEA_104,Food & Beverage,8,117.78
+106,Product_AUT_105,Home & Garden,24,167.36
+107,Product_TOY_106,Food & Beverage,22,161.81
+108,Product_OFF_107,Office,19,173.95
+109,Product_SPO_108,Office,37,16.63
+110,Product_TOY_109,Toys,18,139.95
+111,Product_TOY_110,Clothing,31,32.3
+112,Product_AUT_111,Home & Garden,37,86.08
+113,Product_BOO_112,Toys,30,111.97
+114,Product_CLO_113,Books,42,83.53
+115,Product_AUT_114,Toys,33,106.32
+116,Product_CLO_115,Electronics,10,199.32
+117,Product_OFF_116,Office,37,31.37
+118,Product_AUT_117,Electronics,12,136.71
+119,Product_CLO_118,Home & Garden,30,82.22
+120,Product_BEA_119,Beauty,27,30.94
+121,Product_AUT_120,Beauty,39,35.95
+122,Product_OFF_121,Books,9,190.11
+123,Product_AUT_122,Toys,21,176.52
+124,Product_OFF_123,Beauty,12,181.87
+125,Product_AUT_124,Food & Beverage,29,198.35
+126,Product_CLO_125,Food & Beverage,33,45.62
+127,Product_BOO_126,Books,43,74.31
+128,Product_FOO_127,Automotive,15,135.5
+129,Product_CLO_128,Office,2,99.34
+130,Product_ELE_129,Toys,39,86.59
+131,Product_HOM_130,Home & Garden,44,74.77
+132,Product_BOO_131,Sports,18,120.79
+133,Product_BEA_132,Sports,3,117.24
+134,Product_TOY_133,Sports,7,36.48
+135,Product_CLO_134,Beauty,43,96.99
+136,Product_AUT_135,Automotive,18,112.93
+137,Product_CLO_136,Automotive,44,116.21
+138,Product_SPO_137,Toys,38,45.97
+139,Product_BOO_138,Toys,37,149.74
+140,Product_FOO_139,Automotive,33,9.91
+141,Product_BEA_140,Books,44,74.19
+142,Product_SPO_141,Toys,31,157.14
+143,Product_OFF_142,Books,11,114.96
+144,Product_SPO_143,Electronics,4,55.93
+145,Product_CLO_144,Food & Beverage,18,140.52
+146,Product_BEA_145,Office,4,115.64
+147,Product_CLO_146,Toys,49,160.27
+148,Product_OFF_147,Automotive,34,148.33
+149,Product_TOY_148,Food & Beverage,29,123.97
+150,Product_BEA_149,Food & Beverage,24,100.19
